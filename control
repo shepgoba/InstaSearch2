@@ -1,0 +1,9 @@
+Package: com.shepgoba.instasearch2
+Name: InstaSearch2
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Skip explore view on instagram
+Maintainer: shepgoba
+Author: shepgoba
+Section: Tweaks
